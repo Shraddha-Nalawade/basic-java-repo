@@ -6,6 +6,7 @@ import java.util.Scanner;
  * A Java program to check if a given number is prime or not.
  * 
  * @author Shraddha Nalawade
+ * @date 10/09/2018
  *
  */
 public class PrimeNumber {
